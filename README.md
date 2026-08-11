@@ -27,7 +27,6 @@
 ---
 
 ### 📊 GitHub Analytics
-*(Note: Replace YOUR_GITHUB_USERNAME in the links below for the stats to generate)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Conrad's GitHub Stats" />
