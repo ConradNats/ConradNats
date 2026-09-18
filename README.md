@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Conrad</h1>
-<h3 align="center">Data Science & Analytics Student | Building Data Solutions</h3>
+<h1 align="center">Hi  I'm Conrad</h1>
+<h3 align="center">Data Science & Analytics euthansist | Building Data Solutions</h3>
 
 ---
 
