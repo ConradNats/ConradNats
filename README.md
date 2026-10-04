@@ -38,19 +38,14 @@
 ### 💻 Tech Stack & Tooling
 
 <div align="center">
-
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=python,r,sql,bash,cpp,c" /><br><br>
-  
   <!-- Data Science, ML & Deep Learning -->
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv" /><br><br>
-
   <!-- Big Data, Cloud & Databases -->
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws,gcp" /><br><br>
-
   <!-- Dev Tools & Environments -->
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
-
   <br><br>
 
   <!-- Badges for Libraries & Frameworks -->
